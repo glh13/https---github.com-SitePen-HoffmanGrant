@@ -1,0 +1,10 @@
+Here are a couple of assumptions I made during the test. 
+1- The test didn?t say were to place the results so I created a div on the page itself. This could have been a better modal but I ran out of time
+2- I was using Chrome for testing and ran out of time to check in innerText will work in Firefox.
+3- I removed most punctuation but I?m sure I missed some. This would be easily fixed.
+4- I didn?t use any ECMA 2015 although I could have.
+
+
+
+
+
